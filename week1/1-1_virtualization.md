@@ -1,4 +1,5 @@
-## Virtualization
+<h1 align="center">Virtualization</h1>
+
 
 ![Type of virtualization](../photo/vir.jpeg)
 
