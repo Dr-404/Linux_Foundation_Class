@@ -2,21 +2,24 @@
 
 ## Type of cyber security
 
-1. Convential or Tradtional `Defensive Security`
-2. `Offensive Security`
+1. Convential or Tradtional **Defensive Security**
+2. **Offensive Security**
 
 
 ## Defensive Security (Blue Team?)
 
 1. SOC (Security Operation Center) Services
-<br>
-`Detecting, mitigating, responding cyber threats`
+```
+- Detecting, mitigating, responding cyber threats
+```
 2. Cloud Security
-<br>
-`policies, data security of cloud computing infrastructure`
+```
+- policies, data security of cloud computing infrastructure
+```
 3. Remediation Support
-<br>
-`limit the amonut of damage result form attack`
+```
+- limit the amonut of damage result form attack
+```
 
 
 ## Offensive Security (Red Team?)
