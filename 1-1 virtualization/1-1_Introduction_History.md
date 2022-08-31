@@ -9,24 +9,29 @@
 ## Defensive Security (Blue Team?)
 
 1. SOC (Security Operation Center) Services
+<br>
 `Detecting, mitigating, responding cyber threats`
 2. Cloud Security
+<br>
 `policies, data security of cloud computing infrastructure`
 3. Remediation Support
+<br>
 `limit the amonut of damage result form attack`
 
 
 ## Offensive Security (Red Team?)
 
 1. Penetration Testing 
-<br>
-`is an ethical hacking tactic` 
-<br>
-`use varitey of tools and method to identify potential gaps in security`
+```
+- is an ethical hacking tactic` 
+
+- use varitey of tools and method to identify potential gaps in security
+```
 
 2. Vulnerability Scanning 
-<br>
-`identigy and access the risk and vulnerability in network`
+```
+identigy and access the risk and vulnerability in network
+```
 
 3. Simulate the technique and methods as intruder and mindset as a hacker
 
