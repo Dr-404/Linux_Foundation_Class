@@ -18,11 +18,11 @@
 
 ## Offensive Security (Red Team?)
 
-1. Penetration Testing
-`is an ethical hacking tactic`
+1. Penetration Testing<br>
+`is an ethical hacking tactic` <br>
 `use varitey of tools and method to identify potential gaps in security`
 
-2. Vulnerability Scanning 
+2. Vulnerability Scanning <br>
 `identigy and access the risk and vulnerability in network`
 
 3. Simulate the technique and methods as intruder and mindset as a hacker
