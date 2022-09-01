@@ -37,6 +37,13 @@ Brave browser has many fancy feature and privacy focused
 
 `Direct download link for Mac` ==> [vbox_for_Mac](https://download.virtualbox.org/virtualbox/6.1.38/VirtualBox-6.1.38-153438-OSX.dmg)
 
+```
+Virutal box မှာ Function တွေအကုန် အလုပ်လုပ်နိုင်ဖို့ extension pack ထည့်သွင်းဖို့ လိုပါတယ်။ Extension Pack ကိုလည်း အပေါ်ကလင့် ထဲမှာပါ download လုပ်နိုင်ပါတယ်။ window, Mac, Linux အကုန်တူတူပဲ download လုပ်နိုင်ပါတယ်
+```
+![VboxExtension](../photo/vbox_ext.png)
+
+Direct Download Link ==> [expension_pack](https://download.virtualbox.org/virtualbox/6.1.38/Oracle_VM_VirtualBox_Extension_Pack-6.1.38.vbox-extpack)
+
 
 
 ## 3. Ubuntu ISO download (optical disc image)
