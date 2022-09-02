@@ -11,7 +11,7 @@ Brave browser has many fancy feature and privacy focused
 
 ![brave](../photo/brave.png)
 
-`For mac ====> Brave က ကိုယ့် Operation ကို detect လုပ်နိုင်တာကြောင့် ဒီ Link ကနေ တန်း Download လုပ်လို့ရပါတယ်`
+`For mac ==> Brave က ကိုယ့် Operation ကို detect လုပ်နိုင်တာကြောင့် ဒီ Link ကနေ တန်း Download လုပ်လို့ရပါတယ်`
 
 
 
@@ -53,3 +53,9 @@ Direct Download Link ==> [expension_pack](https://download.virtualbox.org/virtua
 ![ubuntu](../photo/ubuntu.png)
 
 `Ubuntu ISO ကတော့ ဘယ် OS ဖြစ်ဖြစ်တူတူဖြစ်တာမို့ ဒီ Link ကနေ ပဲ ရှာ Download လုပ်လို့ရပါတယ်`
+
+
+## 4. Discord Download
+
+For Mac ==> https://discord.com/api/download?platform=osx
+
