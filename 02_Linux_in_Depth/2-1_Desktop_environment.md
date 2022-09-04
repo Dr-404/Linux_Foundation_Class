@@ -32,8 +32,10 @@ eg. icon, toolbars, wallpaper, desktop widgets
 1. most suitable for cloud workstation, netbooks and outdated hardware
 2. Faster, Lighter
 3. Low consumption of RAM
-![LXDE](../photo/lxde.png)
 <br>
+
+![LXDE](../photo/lxde.png)
+
 
 ## XFCE 
 
