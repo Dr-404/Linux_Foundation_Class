@@ -11,6 +11,7 @@ eg. icon, toolbars, wallpaper, desktop widgets
 2. modern look , GNOME shell Extensions
 3. app is well-organized and simple to use.
 4. use plenty of resources
+<br>
 
 ![Gnome_Desktop](../photo/gnome.png)
 
@@ -21,6 +22,7 @@ eg. icon, toolbars, wallpaper, desktop widgets
 1. Second Most use
 2. Highly customizable, Flexible, user-friendly
 3. Moderate usage of system resource
+<br>
 
 ![KDE_Desktop](../photo/kde.jpg)
 
@@ -31,10 +33,13 @@ eg. icon, toolbars, wallpaper, desktop widgets
 2. Faster, Lighter
 3. Low consumption of RAM
 ![LXDE](../photo/lxde.png)
+<br>
 
 ## XFCE 
 
 1. most performance-oriented desktop environment
 2. fast, portable, resource efficient
 3. simple and light weight
+<br>
+
 ![xfce](../photo/xfce.png)
