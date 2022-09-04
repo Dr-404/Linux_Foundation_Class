@@ -13,7 +13,7 @@ eg. icon, toolbars, wallpaper, desktop widgets
 4. use plenty of resources
 <br>
 
-![Gnome_Desktop](../photo/gnome.png)
+![Gnome_Desktop](../photo/gnome.jpg)
 
 
 
