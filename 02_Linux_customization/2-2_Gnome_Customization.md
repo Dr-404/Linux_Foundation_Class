@@ -84,6 +84,17 @@ w           = new window
 ![shortcut](../photo/shortcut.png)
 
 
+# Key Board Install
+
+- go to ```setting > Region & Language > Input Source```
+
+# Font Install
+
+- go to `https://unicodetoday.org/fonts/`
+- donwload `.ttf` font
+- move the font to `/usr/share/fonts/truetype`
+
+
 
 # Gnome Extenstion
 
@@ -102,3 +113,8 @@ w           = new window
 
 1. Flotaing Dork or Dash to Dock
 2. Deskton icon NG (DING)
+
+
+# Linux with GUI (Office and Personal use)
+
+![LinuxOffice](../photo/office.png)
