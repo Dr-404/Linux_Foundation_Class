@@ -20,7 +20,7 @@ eg. icon, toolbars, wallpaper, desktop widgets
 ## 2. KDE Plasma
 
 1. Second Most use
-2. Highly customizable, Flexible, user-friendly
+2. Highly customize, Flexible, user-friendly
 3. Moderate usage of system resource
 <br>
 
