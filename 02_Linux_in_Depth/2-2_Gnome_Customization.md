@@ -7,10 +7,10 @@
 
 ## 1. Repository 
 
-```
-    a repository is a location from where the Linux system retrieves and installs updates and applications related to the Operating system. The repository is nothing, but a collection of software, and this collection is hosted on a remote server and is downloaded and installed for either installing or updating software packages on the Linux system
 
-```
+ a repository is a location from where the Linux system retrieves and installs updates and applications related to the Operating system. The repository is nothing, but a collection of software, and this collection is hosted on a remote server and is downloaded and installed for either installing or updating software packages on the Linux system
+
+
 - APT (Advanced Package Tool)
 - thousands of program
 - High level of security
