@@ -17,3 +17,16 @@
 - relies on host mechine's OS 
 - eg `Oracel virtualbox`, `VM ware Workstation`
 
+
+## V Box Setting
+
+#### Share Folder with Host
+
+1. openVBox and go to `setting > share folder`
+
+![share](../photo/share.png)
+
+2. Install `nautilus-admin`
+
+
+
