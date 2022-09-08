@@ -54,7 +54,7 @@ Application နဲ့ဆိုင်တဲ့ Information တွေကို က
 ## Installation with `snap`
 
 #### snap = snapcraf store
--url = `https://snapcraft.io/store`
+- url = `https://snapcraft.io/store`
 
 ```snap install (pkgname)```
 
