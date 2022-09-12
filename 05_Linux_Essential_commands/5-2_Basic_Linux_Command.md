@@ -38,7 +38,56 @@ privileges), so you’ll want to log in as root
 
 ``` nmap --help | grep host``
 
-## 6. Modifying Files and Directories
+<h1 align="Center">Modifying Files and Directories</h1>
+
+## 1. Creating Files with `cat`
+
+1. `cat > helloworld`
+2. Type the text and exit with control+c
+3. append the text with `>>` eg `cat >> hellowordl`
+
+## 2. Creating File with `touch`
+
+#### `touch newfile`
+
+- Create new file 
+- sometime use to changes details of files such as created or modified time
+
+## 3. Creating file with `echo`
+
+`echo "HelloWorld" > hello.txt`
+
+
+
+## 4. Creating a Directory
+
+`mkdir newdirectory`
+
+## 5. Copying a File
+
+`cp oldfile (filepath/newfile)`
+
+`cp oldfile /home/dr404/Desktop/newfile`
+
+## 6. Renaming a File
+
+`mv oldfiel Renamedfile`
+
+## 7. Removing a File
+
+`rm file2remove`
+
+## 8. Removing a Directory
+
+`rmdir dir2remove` or `rm -r dir2remove`
+
+
+
+
+
+
+
+
 
 
 
