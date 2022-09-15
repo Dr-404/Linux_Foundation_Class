@@ -83,6 +83,124 @@ privileges), so you’ll want to log in as root
 
 
 
+<h1 align="center">Viewing Files</h1>
+
+#### 1. View the file with `cat`
+
+#### 2. View the file with `head` (display first 10 lines of files)
+
+- `head /etc/fonts/fonts.conf` (-20 options mean 20 line)
+
+#### 3. View the file with `tail`
+
+- same as head but show last line
+
+#### 4. Viewing file with `more`
+
+- display file content
+- page down with enter
+- `more /etc/fonts/font.conf`
+
+#### 5. Viewing files with `less`
+
+- same as more but it better
+
+- use (/) to find words and `q` to quit
+
+#### 6. Numbering the lines with `nl`
+
+- `nl /etc/fonts/fonts.conf`
+
+
+<h1 align="center">Text Editor</h1>
+
+## 1. GUI text editor
+
+- gedit
+- subl (sublime-text)
+
+## 2. CLI text editor
+
+- nano
+- vim
+
+
+<h1 align="center">Finding Stuff</h1>
+
+
+
+## Installing required package
+
+`sudo apt install mlocate`
+
+## Finding with `locate`
+
+- locate use a database that is usually update once a day
+
+
+## Finding with `find`
+-more powerful than locate
+
+`find direcotry options expression`
+
+- Example
+
+`find / -type f -name nmap`
+
+```
+    d      directory
+
+    f      regular file
+
+```
+
+-  if you want to remove error combine with `2>/dev/null`
+
+## Finding binary
+
+1. `whereis` = locating binary file
+eg. `whereis nmap`
+
+2. which = more specific
+- return PATH variable
+eg. `which nmap`
+
+
+## Wildcard
+
+1. `?`      = single character 
+- (eg. ?at = cat, hat, bat) not (what)
+
+2. `[]`     = characters in square bracket
+- Eg [c,b]at = cat, bat
+
+3. `*`      = any characters any length
+- Eg. *at = cat, what , bat
+ 
+
+<h1 align="center"><code>git</code> and <code>pip</code></h1>
+
+## `git` install
+
+`sudo apt install git`
+
+## `pip` install
+
+`sudo apt install python3-pip`
+ 
+
+## Usage of `git` and `pip`
+
+`git clone` = clone repository
+- eg. **Turbolister github**
+
+`pip3 install` = install python Package
+
+
+
+
+
+
 
 
 
