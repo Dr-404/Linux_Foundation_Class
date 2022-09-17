@@ -84,3 +84,11 @@ eg. `ping meberlin.com`
 
 `ifconfig wlp2s0 192.168.100.22`
 
+#### Spoofr MAC address
+
+`ifconfig eth0 down`
+`ifconfig eth0 hw ether 00:11:22:33:44:55:`
+`ifconfig eth) up`
+
+#### DNS with dig
+
