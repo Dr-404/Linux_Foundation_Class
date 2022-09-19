@@ -90,5 +90,106 @@ eg. `ping meberlin.com`
 `ifconfig eth0 hw ether 00:11:22:33:44:55:`
 `ifconfig eth) up`
 
-#### DNS with dig
+## TCP and UDP 
 
+- `TCP` - secure, connection, slow
+- `UDP` - connectionless, live session, Broadcast
+
+
+# Network Mangement
+
+## 1. `ip` command
+
+- show routing table, network devices
+- LINUX IPV4 address 
+
+#### `ip route`
+- show IP in table form
+
+#### `ip addr`
+- more complete informiation
+
+
+## 2. `ifconfig` command
+
+- Need to install net-tools
+
+```
+sudo apt install net-tools
+```
+
+#### `ifconfig | grep inet`
+
+- only show IPv4 address
+
+#### `ifconfig | grep ether`
+
+- only show MAC address
+
+## 3. `netstat` command
+
+#### `netstat -r`
+
+- show routing table
+
+#### `netstat -t`
+
+- only show tcp port
+
+#### `netstat -l` 
+
+- show listen port
+
+
+## 4. `systemctl` command
+
+#### `sudo systemctl status ssh`
+
+- checking ssh service status
+
+#### `sudo systemctl start ssh`
+
+- Starting ssh service
+
+#### `sudo systemctl stop ssh`
+
+- Stopping ssh service
+
+#### `sudo systemctl enable ssh`
+
+- run ssh service after booting os
+
+#### `sudo systemctl disable ssh`
+
+- disabling ssh service 
+
+
+# Manipulation the DNS
+
+## `DNS`
+- Translate Domain to IP address
+
+
+## Examining DNS with `dig` command
+
+#### `dig youtube.com ns`
+- Finding name server
+
+#### `dig youtube.com mx`
+
+- Finding mail server
+
+#### Changing DNS server
+
+- `sudo nano /etc/resolv.conf` 
+
+#### Blocking Website
+
+- `sudo nano /etc/hosts`
+- Replace local ip address with domain name
+
+#### Mapping IP address
+
+- `sudo nano /etc/hosts`
+- Map `ip` with `dns_name`
+- `sudo systemctl restart network-manager.service`
