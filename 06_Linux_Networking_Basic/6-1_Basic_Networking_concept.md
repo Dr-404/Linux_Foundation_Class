@@ -192,4 +192,7 @@ sudo apt install net-tools
 
 - `sudo nano /etc/hosts`
 - Map `ip` with `dns_name`
-- `sudo systemctl restart network-manager.service`
+- `sudo systemctl restart network-man
+
+
+# SSH (Secure Shell)
