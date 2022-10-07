@@ -3,9 +3,9 @@
 
 ## Using Multiple Commands
 
-- Shell Script had the ability to enter multiple command
+Shell Script had the ability to enter multiple command
 
-- use semicolon `;` to run two command together
+use semicolon `;` to run two command together
 
 `whoami ; uname -a`
 
@@ -17,7 +17,7 @@
 
 `#!/bin/bash`
 
-- ** in normal script line `#` use to comment **
+**in normal script line `#` use to comment**
 
 #### Making file with text editor
 
