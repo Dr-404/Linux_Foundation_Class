@@ -10,13 +10,15 @@
 - go to `https://unicodetoday.org/fonts/`
 - donwload `.ttf` font
 - move the font to `/usr/share/fonts/truetype`
+- update font cache
+    - `fc-cache -f -v`
 
 
 
 <h1 align="center">Shortcut Creation </h1>
 
 1. go to ```setting > keyboard > View and Customize shortcut```
-2. got to custom shortcut
+2. got to `custom shortcut`
 3. press shortcut key on keyboard
 
 ![shortcut](../../photo/shortcut.png)
