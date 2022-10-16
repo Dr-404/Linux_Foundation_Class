@@ -72,7 +72,7 @@ w           = new window
 
 - use to customize gnome desktop
 
-![gnome_tweak](../photo/tweak.png)
+![gnome_tweak](../../photo/tweak.png)
 
 
 # Shortcut Creation
@@ -81,7 +81,7 @@ w           = new window
 2. got to custom shortcut
 3. press shortcut key on keyboard
 
-![shortcut](../photo/shortcut.png)
+![shortcut](../../photo/shortcut.png)
 
 
 # Key Board Install
@@ -117,6 +117,6 @@ w           = new window
 
 # Linux with GUI (Office and Personal use)
 
-![LinuxOffice](../photo/office.png)
+![LinuxOffice](../../photo/office.png)
 
 
