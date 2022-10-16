@@ -21,12 +21,6 @@
 ```sudo apt install gnome-tweaks```
 
 
-
-
-
-
-
-
 ## Stores (Like play-store)
 
 - not very secure
@@ -36,65 +30,11 @@
 
 ```snap install telegram-desktop```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## File Manager 
-
-`nautilus` File manager
-
-#### open file manager in command line
-
-`nautilus -w`
-
-```
-nautilus    = file manager command
-w           = new window
-```
-
-## Terminal
-
-`gnome-terminal` 
-
-
 # Gnome Tweaks
 
 - use to customize gnome desktop
 
 ![gnome_tweak](../../photo/tweak.png)
-
-
-# Shortcut Creation
-
-1. go to ```setting > keyboard shortcut```
-2. got to custom shortcut
-3. press shortcut key on keyboard
-
-![shortcut](../../photo/shortcut.png)
-
-
-# Key Board Install
-
-- go to ```setting > Region & Language > Input Source```
-
-# Font Install
-
-- go to `https://unicodetoday.org/fonts/`
-- donwload `.ttf` font
-- move the font to `/usr/share/fonts/truetype`
-
-
 
 # Gnome Extenstion
 
