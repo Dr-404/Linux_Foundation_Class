@@ -4,7 +4,7 @@
 
 #### root user (root group)
 
--Most powerful and can do anything
+- Most powerful and can do anything
 
 #### Other user
 

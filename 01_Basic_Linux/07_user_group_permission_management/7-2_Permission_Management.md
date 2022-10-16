@@ -32,14 +32,14 @@
 
 # Changing Permission with UGO
 
-![permission_ugo](../photo/permission_ugo.png)
+![permission_ugo](../../photo/permission_ugo.png)
 
 - eg `sudo chmod u+x file.txt`
 
 
 # Changing Permission with BINARY METHOD
 
-![permiession_binary](../photo/permission.png)
+![permiession_binary](../../photo/permission.png)
 
 - `d`   =   directory
 - `-`   =   file
@@ -51,7 +51,7 @@
 
 ## Permission Table
 
-![permision_all](../photo/permission_all.png)
+![permision_all](../../photo/permission_all.png)
 
 
 

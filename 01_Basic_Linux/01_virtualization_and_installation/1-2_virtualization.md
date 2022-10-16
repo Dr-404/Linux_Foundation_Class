@@ -1,7 +1,7 @@
 <h1 align="center">Virtualization</h1><br>
 
 
-![Type of virtualization](../photo/vir.jpeg)
+![Type of virtualization](../../photo/vir.jpeg)
 
 #### Type 1 Hypervisor
 
@@ -24,7 +24,7 @@
 
 1. openVBox and go to `setting > share folder`
 
-![share](../photo/share.png)
+![share](../../photo/share.png)
 
 2. Install `nautilus-admin`
 

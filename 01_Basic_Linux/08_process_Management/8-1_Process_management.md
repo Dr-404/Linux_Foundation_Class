@@ -61,7 +61,7 @@ unusual behavior, or—at worst—freeze. A process that exhibits this type of b
 
 - `kill-signal PID`
 
-![example of kill](../photo/process_kill.png)
+![example of kill](../../photo/process_kill.png)
 
 - `kill -1 PID`
 - `kill -9 PID`

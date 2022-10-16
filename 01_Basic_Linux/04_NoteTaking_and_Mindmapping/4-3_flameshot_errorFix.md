@@ -7,7 +7,7 @@
 
 ### 2. Remove "#" from WaylanEnable=flase
 
-![flameshot_errorFix](../photo/flameFix.png)
+![flameshot_errorFix](../../photo/flameFix.png)
 
 ### 3. Add the following line to the [daemon] section:
 

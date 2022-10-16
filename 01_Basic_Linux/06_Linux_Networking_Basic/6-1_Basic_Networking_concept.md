@@ -50,7 +50,7 @@ A local IP address can be generated via DHCP running on a local network router, 
 
 - supports a total of 4,294,967,296 addresses.
 
-![IPv4](../photo/ip4.png)
+![IPv4](../../photo/ip4.png)
 
 
 

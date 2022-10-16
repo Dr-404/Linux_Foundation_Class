@@ -13,7 +13,7 @@ eg. icon, toolbars, wallpaper, desktop widgets
 4. use plenty of resources
 <br>
 
-![Gnome_Desktop](../photo/gnome.jpg)
+![Gnome_Desktop](../../photo/gnome.jpg)
 
 
 
@@ -24,7 +24,7 @@ eg. icon, toolbars, wallpaper, desktop widgets
 3. Moderate usage of system resource
 <br>
 
-![KDE_Desktop](../photo/kde.jpg)
+![KDE_Desktop](../../photo/kde.jpg)
 
 
 ## LXDE (Lightweight X11 Desktop Environment)
@@ -34,7 +34,7 @@ eg. icon, toolbars, wallpaper, desktop widgets
 3. Low consumption of RAM
 <br>
 
-![LXDE](../photo/lxde.png)
+![LXDE](../../photo/lxde.png)
 
 
 ## XFCE 
@@ -44,4 +44,4 @@ eg. icon, toolbars, wallpaper, desktop widgets
 3. simple and light weight
 <br>
 
-![xfce](../photo/xfce.png)
+![xfce](../../photo/xfce.png)

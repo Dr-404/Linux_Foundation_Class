@@ -1,6 +1,6 @@
 # Basic Command Structure
 
-![Linux_command_structure](../photo/command_structure.png)
+![Linux_command_structure](../../photo/command_structure.png)
 
 
 # Two Type of Software Installation
