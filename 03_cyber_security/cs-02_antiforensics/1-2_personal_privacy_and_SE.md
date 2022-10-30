@@ -68,7 +68,7 @@ In these types of attacks, someone without the proper authentication follows an 
 ## 1. Demo Man in the middle attack
 
 
-![MiM attack](../photo/mim.png)
+![MiM attack](../../photo/mim.png)
 
 - Go to `http://testphp.vulnweb.com/`
 - `sudo wireshark`
