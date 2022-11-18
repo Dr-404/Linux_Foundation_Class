@@ -1,1 +1,2 @@
-Linux Foundation Resources
+Linux Foundation Course Resources
+=================================
